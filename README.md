@@ -282,5 +282,3 @@ For example running `git clone git@github.com:constructorlabs/shared-resources.g
 [State of JS 2018](https://2018.stateofjs.com/introduction)
 
 [Guide to becoming a dev 2018](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-
-[Jim on Devops]
